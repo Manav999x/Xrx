@@ -1152,7 +1152,7 @@ func main() {
 
     addr := fmt.Sprintf("0.0.0.0:%d", PORT)
     log.Printf("=========================================================")
-    log.Printf("  RAZORPAY CARD CHECKER - GO VERSION")
+    log.Printf("  RAZORPAY CARD CHECKER - GO VERSION By @HAMZA_XF")
     log.Printf("  Listening on: http://%s", addr)
     log.Printf("  Endpoint: /razorpay/cc={cc|mm|yy|cvv}")
     log.Printf("=========================================================")
